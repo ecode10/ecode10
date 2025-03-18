@@ -23,14 +23,11 @@
         />
       </td>
       <td>
-        <img
-          src="https://streak-stats.demolab.com/?user=ecode10&theme=tokyonight"
-          alt="GitHub Stats"
-        />
+        <img src="https://streak-stats.demolab.com/?user=ecode10&theme=tokyonight">
       </td>
     </tr>
   </thead>
 </table>
 
 # Contact Me
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@plataforma.academy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/plataforma_academy) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://mauriciojunior.net)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@plataforma.academy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/plataforma_academy) [mauriciojunior.net](https://mauriciojunior.net)

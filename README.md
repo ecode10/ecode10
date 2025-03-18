@@ -24,7 +24,7 @@
       </td>
       <td>
         <img
-          src="[https://streak-stats.demolab.com/?user=ecode10&theme=tokyonight](https://streak-stats.demolab.com/?user=ecode10&theme=tokyonight)"
+          src="https://streak-stats.demolab.com/?user=ecode10&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
